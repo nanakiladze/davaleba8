@@ -67,9 +67,9 @@ body {
   margin-top: 10px;
   cursor: pointer;
 }
-/*CONTAINER 2*/
+/*CONTAINER*/
 
-.container-two {
+.container {
   background-color: grey;
   margin-top: 50px;
   padding: 20px;
